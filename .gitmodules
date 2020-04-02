@@ -16,3 +16,15 @@
 [submodule "Java/pt2019_30226_tusinean_andrei_assignment_5"]
 	path = Java/pt2019_30226_tusinean_andrei_assignment_5
 	url = https://AndreiTusinean@bitbucket.org/AndreiTusinean/pt2019_30226_tusinean_andrei_assignment_5.git
+[submodule "pt2019_30226_tusinean_andrei_assignment_2"]
+	path = pt2019_30226_tusinean_andrei_assignment_2
+	url = https://AndreiTusinean@bitbucket.org/AndreiTusinean/pt2019_30226_tusinean_andrei_assignment_2.git
+[submodule "pt2019_30226_tusinean_andrei_assignment_3"]
+	path = pt2019_30226_tusinean_andrei_assignment_3
+	url = https://AndreiTusinean@bitbucket.org/AndreiTusinean/pt2019_30226_tusinean_andrei_assignment_3.git
+[submodule "pt2019_30226_tusinean_andrei_assignment_4"]
+	path = pt2019_30226_tusinean_andrei_assignment_4
+	url = https://AndreiTusinean@bitbucket.org/AndreiTusinean/pt2019_30226_tusinean_andrei_assignment_4.git
+[submodule "pt2019_30226_tusinean_andrei_assignment_5"]
+	path = pt2019_30226_tusinean_andrei_assignment_5
+	url = https://AndreiTusinean@bitbucket.org/AndreiTusinean/pt2019_30226_tusinean_andrei_assignment_5.git
