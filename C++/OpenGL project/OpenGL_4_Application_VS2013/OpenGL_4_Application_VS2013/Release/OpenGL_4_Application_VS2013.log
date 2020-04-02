@@ -1,0 +1,44 @@
+﻿  OpenGL_4_Application_VS2013.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  g:\facultate\coding\visual studio 2017 projects\pg\pg project\opengl_4_application_vs2013\opengl_4_application_vs2013\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+g:\facultate\coding\visual studio 2017 projects\pg\pg project\opengl_4_application_vs2013\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(175): warning C4305: '+=': truncation from 'double' to 'float'
+g:\facultate\coding\visual studio 2017 projects\pg\pg project\opengl_4_application_vs2013\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(183): warning C4305: '-=': truncation from 'double' to 'float'
+g:\facultate\coding\visual studio 2017 projects\pg\pg project\opengl_4_application_vs2013\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(199): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+g:\facultate\coding\visual studio 2017 projects\pg\pg project\opengl_4_application_vs2013\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(210): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\facultate\coding\visual studio 2017 projects\pg\pg project\opengl_4_application_vs2013\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(212): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\facultate\coding\visual studio 2017 projects\pg\pg project\opengl_4_application_vs2013\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(213): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\facultate\coding\visual studio 2017 projects\pg\pg project\opengl_4_application_vs2013\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(216): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\facultate\coding\visual studio 2017 projects\pg\pg project\opengl_4_application_vs2013\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(223): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\facultate\coding\visual studio 2017 projects\pg\pg project\opengl_4_application_vs2013\opengl_4_application_vs2013\opengl_4_application_vs2013.cpp(226): warning C4305: 'argument': truncation from 'double' to 'float'
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  3 of 2141 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+Mesh.obj : warning LNK4049: locally defined symbol ___glewGenBuffers imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewGenVertexArrays imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewActiveTexture imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewBufferData imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewUniform1i imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewBindBuffer imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewVertexAttribPointer imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewBindVertexArray imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewEnableVertexAttribArray imported
+Model3D.obj : warning LNK4049: locally defined symbol ___glewGenerateMipmap imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewLinkProgram imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewDeleteShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetProgramInfoLog imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewShaderSource imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewAttachShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetProgramiv imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetShaderInfoLog imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCreateProgram imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCreateShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCompileShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetShaderiv imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewUseProgram imported
+SkyBox.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'G:\Facultate\Coding\Visual Studio 2017 Projects\PG\PG Project\OpenGL_4_Application_VS2013\Release\vc120.pdb'; linking object as if no debug info
+  OpenGL_4_Application_VS2013.vcxproj -> G:\Facultate\Coding\Visual Studio 2017 Projects\PG\PG Project\OpenGL_4_Application_VS2013\Release\OpenGL_4_Application_VS2013.exe
