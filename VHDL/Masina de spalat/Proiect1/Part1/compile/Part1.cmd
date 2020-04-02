@@ -1,0 +1,1 @@
+-w -s "c:\My files\My_Designs\Proiect1\library.cfg"  -j "c:\My files\My_Designs\Proiect1\Part1\projlib.cfg"  -d "c:\My files\My_Designs\Proiect1\Part1\compile"   -work Part1  -O3 -e 100 -2002 "c:\My files\My_Designs\Proiect1\Part1\src\Divdefrec.vhd"

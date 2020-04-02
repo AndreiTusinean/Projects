@@ -1,0 +1,11 @@
+.\src\Selectare_Regim.vhd
+.\src\Selectare_mod_automat.vhd
+.\src\Comenzi_de_selectare_regim_manual.vhd
+.\src\Ready.vhd
+.\src\Modul_principal_de_lucru.vhd
+.\src\Manual_selectare_temperatura.vhd
+.\src\Manual_selectare_viteza.vhd
+.\src\Decodificator.vhd
+.\src\Countdown_with_vector.vhd
+.\src\Afis.vhd
+.\src\Divdefrec.vhd

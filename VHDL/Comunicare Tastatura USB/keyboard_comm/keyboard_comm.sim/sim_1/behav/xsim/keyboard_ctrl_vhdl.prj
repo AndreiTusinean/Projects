@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../keyboard_comm.srcs/sources_1/new/debounce.vhd" \
+"../../../../keyboard_comm.srcs/sources_1/new/displ7seg.vhd" \
+"../../../../keyboard_comm.srcs/sources_1/new/errot_check.vhd" \
+"../../../../keyboard_comm.srcs/sources_1/new/keyboard_ctrl.vhd" \
+
+# Do not sort compile order
+nosort

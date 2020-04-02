@@ -1,0 +1,41 @@
+Active-HDL 9.1.2353.4205  2018-05-30 19:42:20
+
+Elaboration top modules:
+Architecture                  ARC_08(caracteristici_spalare)
+
+
+--------------------------------------------------------------------------------------------------------
+Entity                 | Architecture | Library | Info | Compiler Version         | Compilation Options
+--------------------------------------------------------------------------------------------------------
+caracteristici_spalare | ARC_08       | part1   |      | 9.1.2353.4205  (Windows) | -O3
+MOD_REGIM              | arc_00       | part1   |      | 9.1.2353.4205  (Windows) | -O3
+CLATIRE_SUPLIMENTARA   | arc_01       | part1   |      | 9.1.2353.4205  (Windows) | -O3
+PRESPALARE             | arc_02       | part1   |      | 9.1.2353.4205  (Windows) | -O3
+div                    | arh_13       | part1   |      | 9.1.2353.4205  (Windows) | -O3
+TEMPERATURA            | arc_04       | part1   |      | 9.1.2353.4205  (Windows) | -O3
+VITEZA                 | arc_05       | part1   |      | 9.1.2353.4205  (Windows) | -O3
+SELECTARE_MOD_AUTOMAT  | arc_06       | part1   |      | 9.1.2353.4205  (Windows) | -O3
+INCEPERE_SPALARE       | arc_03       | part1   |      | 9.1.2353.4205  (Windows) | -O3
+COUNTDOWN_VECTOR       | arc_07       | part1   |      | 9.1.2353.4205  (Windows) | -O3
+DECOD                  | arc_11       | part1   |      | 9.1.2353.4205  (Windows) | -O3
+afisor                 | arh_12       | part1   |      | 9.1.2353.4205  (Windows) | -O3
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+VHDL Package                          | Library | Info | Compiler Version         | Compilation Options
+--------------------------------------------------------------------------------------------------------
+standard                              | std     |      |                          | <unavailable>
+TEXTIO                                | std     |      | 9.1.2353.4205  (Windows) |  -2008
+std_logic_1164                        | ieee    |      | 9.1.2353.4205  (Windows) |  -2008
+std_logic_arith                       | ieee    |      | 9.1.2353.4205  (Windows) | 
+NUMERIC_STD                           | ieee    |      | 9.1.2353.4205  (Windows) |  -2008
+STD_LOGIC_UNSIGNED                    | ieee    |      | 9.1.2353.4205  (Windows) | 
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Library                               | Comment
+--------------------------------------------------------------------------------------------------------
+ieee                                  | Standard IEEE packages library
+part1                                 | None
+std                                   | Standard VHDL library
+--------------------------------------------------------------------------------------------------------

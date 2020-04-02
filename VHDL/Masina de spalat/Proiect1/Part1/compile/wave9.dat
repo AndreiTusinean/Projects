@@ -1,0 +1,22 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "i#7#integerrict-2147483648 2147483647 "
+$S 1 1 clk_div
+I 2 "e#3#bitc2 01"
+$S 5 2 digit_idx
+$S 9 2 group_idx
+I 3 "a#28#std_logic_vector(7 downto 0)1 ricd7 0 e#9#std_logicc9 UX01ZWLH-"
+I 4 "e#9#std_logicc9 UX01ZWLH-"
+$BUS S 45 3 8 segs
+$SC 13-41/4
+$BUS IN 78 3 8 nr
+$SC 46-74/4
+$BUS IN +37 3 8 avg
+$SC 79-+28/4
+$IN +5 4 clk
+I 5 "a#28#std_logic_vector(3 downto 0)1 ricd3 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS OUT +20 5 4 anod
+$SC 116-+12/4
+$BUS OUT +37 3 8 catod
+$SC 133-+28/4
+$ENDWAVE

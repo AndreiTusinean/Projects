@@ -1,0 +1,231 @@
+timestamp=1527674129090
+
+[afisor]
+A/arc_10=A/ARC_10 +21|./src/Afisor.vhd|9|1*3029902
+A/architecture_display=+21|./src/display.vhd|15|1*3152917
+A/arh_12=A/ARH_12 21|./src/Afis.vhd|15|1*3721581
+BinI32/arh_12=3*359538
+I=0*1731368
+I/arh_12=I/ARH_12 0*1733832
+M=11|0|v98|1527598083608|./src/Afis.vhd|0*1730955*0x504a7b27e125786ff5da970eb6edab40e675c5e5|0*1731297*0xab32bc1a2daf049573e14469f634e0e6
+M/arc_10=M/ARC_10 21|0|v98|1526388738242|./src/Afisor.vhd|0*191740*0x278b600a991fa64be8533ee7a63c1b31c74b9934|0*192227*0xb33770ff1c10522f9491560174ac8e6c
+M/arh_12=M/ARH_12 21|0|v98|1527671358091|./src/Afis.vhd|0*1731530*0xdcd5c8c25d904842dadffd6a844eb19610082819|0*1733751*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Afis.vhd|5
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/arc_10=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/arh_12=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[caracteristici_spalare]
+A/arc_08=A/ARC_08 21|./src/Modul_principal_de_lucru.vhd|26|1*3726666
+BinI32/arc_08=3*361400
+I=0*1724697
+I/arc_08=I/ARC_08 0*1734001
+M=11|0|v98|1527598057374|./src/Modul_principal_de_lucru.vhd|0*1723890*0xf791149d2b69aa5f7a3ccdfe79af7684f9636f76|0*1724590*0xab32bc1a2daf049573e14469f634e0e6
+M/arc_08=M/ARC_08 21|0|v98|1527671391486|./src/Modul_principal_de_lucru.vhd|0*1725008*0xfaa9a2175a9fb50799b05aee1ac8ebf55fbe1695|0*1730511*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Modul_principal_de_lucru.vhd|7
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/arc_08=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[clatire_suplimentara]
+A/arc_01=A/ARC_01 21|./src/Comenzi_de_selectare_regim_manual.vhd|21|1*3696236
+BinI32/arc_01=3*352959
+H/arc_01=0*1030970
+I=0*441434
+I/arc_01=I/ARC_01 0*441614
+M=11|0|v98|1526216292902|./src/Comenzi_de_selectare_regim_manual.vhd|0*441022*0x049e5b04fe57fd999269c3d299685ba87d59d66f|0*441320*0xab32bc1a2daf049573e14469f634e0e6
+M/arc_01=M/ARC_01 21|0|v98|1527671357106|./src/Comenzi_de_selectare_regim_manual.vhd|0*439778*0xd52191afe8028f9deabc748b231081e519a20960|0*440043*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Comenzi_de_selectare_regim_manual.vhd|6
+V=0*959155
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/arc_01=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[countdown_vector]
+A/arc_07=A/ARC_07 21|./src/Countdown_with_vector.vhd|17|1*3719506
+BinI32/arc_07=3*358619
+H/arc_07=0*1716994
+I=0*672088
+I/arc_07=I/ARC_07 0*673427
+M=11|0|v98|1526373726903|./src/Countdown_with_vector.vhd|0*671525*0x731c9ad0c35be639450b52e90feaf45f3d522f63|0*671990*0xab32bc1a2daf049573e14469f634e0e6
+M/arc_07=M/ARC_07 21|0|v98|1527671357893|./src/Countdown_with_vector.vhd|0*672332*0xc427cda0cdf6d49e1089161d7404ce0d85269940|0*673319*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Countdown_with_vector.vhd|6
+V=0*980411
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/arc_07=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[decod]
+A/arc_11=A/ARC_11 21|./src/Decodificator.vhd|9|1*3717423
+BinI32/arc_11=3*357250
+H/arc_11=0*1057738
+I=0*678566
+I/arc_11=I/ARC_11 0*681177
+M=11|0|v98|1526373961559|./src/Decodificator.vhd|0*678256*0x23e8ebcc34fa916f9b49c0bbaef93de5ad08e3b2|0*678487*0xab32bc1a2daf049573e14469f634e0e6
+M/arc_11=M/ARC_11 21|0|v98|1527671357765|./src/Decodificator.vhd|0*678665*0x190f1b1cdd4ca5c7d6814c0edcc449dac4ed967f|0*681088*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Decodificator.vhd|4
+V=0*976391
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/arc_11=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[display]
+A/architecture_display=21|./src/display.vhd|15|1*3147987
+B/architecture_display=3*212453
+H/architecture_display=0*1187432
+R=./src/display.vhd|5
+V=0*1185307
+
+[div]
+A/arh_13=A/ARH_13 21|./src/Divdefrec.vhd|12|1*3745092
+A/fct_div=+21|./src/Divdefrec.vhd|14|1*3440376
+BinI32/arh_13=3*363811
+I=0*1722733
+I/arh_13=I/ARH_13 0*1738361
+M=11|0|v98|1527597668747|./src/Divdefrec.vhd|0*1722473*0xb369ed393828f4cccad867969bf7ff7dc28cd94d|0*1722660*0xab32bc1a2daf049573e14469f634e0e6
+M/arh_13=M/ARH_13 21|0|v98|1527674128918|./src/Divdefrec.vhd|0*1737967*0x6daf8a3c2c393905f4981da4c5f861273d835c5f|0*1738278*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Divdefrec.vhd|5
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/arh_13=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[incepere_spalare]
+A/arc_03=A/ARC_03 21|./src/Ready.vhd|13|1*3698232
+BinI32/arc_03=3*353561
+H/arc_03=0*1031848
+I=0*354858
+I/arc_03=I/ARC_03 0*355370
+M=11|0|v98|1526207813940|./src/Ready.vhd|0*354417*0x7a79612b31596c2e4ec73d6a17fa500ea6d351a0|0*354776*0xab32bc1a2daf049573e14469f634e0e6
+M/arc_03=M/ARC_03 21|0|v98|1527671357277|./src/Ready.vhd|0*354968*0x918e5040b383083abfecaf801ffdeeb6d2340f2e|0*355278*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Ready.vhd|5
+V=0*966502
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/arc_03=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[mod_regim]
+A/arc_00=A/ARC_00 21|./src/Selectare_Regim.vhd|12|1*3693903
+BinI32/arc_00=3*352166
+H/arc_00=0*1029996
+I=0*359699
+I/arc_00=I/ARC_00 0*371897
+M=11|0|v98|1526208568492|./src/Selectare_Regim.vhd|0*359399*0xdb44badc8505e637395b87e51092cb545bded66d|0*359614*0xab32bc1a2daf049573e14469f634e0e6
+M/arc_00=M/ARC_00 21|0|v98|1527671356887|./src/Selectare_Regim.vhd|0*371577*0x2babb202ffbd2ac24f5155a11835e0cbf7995b3e|0*371802*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Selectare_Regim.vhd|6
+V=0*953834
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/arc_00=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[prespalare]
+A/arc_02=A/ARC_02 21|./src/Comenzi_de_selectare_regim_manual.vhd|35|1*3697260
+BinI32/arc_02=3*353260
+H/arc_02=0*1031424
+I=0*442311
+I/arc_02=I/ARC_02 0*442415
+M=11|0|v98|1526216300434|./src/Comenzi_de_selectare_regim_manual.vhd|0*441969*0xce37c1692f0ef0547a7b0eb87e984260e122ba41|0*442207*0xab32bc1a2daf049573e14469f634e0e6
+M/arc_02=M/ARC_02 21|0|v98|1527671357115|./src/Comenzi_de_selectare_regim_manual.vhd|0*440354*0x56bedc74601a766cf859b0792d17cc93079a5fe9|0*440599*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Comenzi_de_selectare_regim_manual.vhd|15
+V=0*960276
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/arc_02=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[ready]
+A/arc_03=A/ARC_03 21|./src/Ready.vhd|12|1*928132
+BinI32/arc_03=3*71448
+I=0*346881
+I/arc_03=I/ARC_03 0*347349
+M=11|0|v98|1526206215181|./src/Ready.vhd|0*346499*0x87f25897e080876484b9c3ac508cc6eeaa997dc5|0*346810*0xab32bc1a2daf049573e14469f634e0e6
+M/arc_03=M/ARC_03 21|0|v98|1526206215183|./src/Ready.vhd|0*346980*0xc88fd8f5540f9618c98eb0b920d646df84b3018a|0*347268*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Ready.vhd|5
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/arc_03=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[selectare_mod_automat]
+A/arc_06=A/ARC_06 21|./src/Selectare_mod_automat.vhd|13|1*3694852
+BinI32/arc_06=3*352467
+H/arc_06=0*1030381
+I=0*405473
+I/arc_06=I/ARC_06 0*406227
+M=11|0|v98|1526212031387|./src/Selectare_mod_automat.vhd|0*404995*0x2ef0ddf6f79dd47f9734baa583a782aa7f068045|0*405370*0xab32bc1a2daf049573e14469f634e0e6
+M/arc_06=M/ARC_06 21|0|v98|1527671356974|./src/Selectare_mod_automat.vhd|0*405722*0x7dcf4fb98195d3a2e49f05cd5a4aa09ddce7a8ce|0*406114*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Selectare_mod_automat.vhd|6
+V=0*957398
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/arc_06=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[temperatura]
+A/arc_04=A/ARC_04 21|./src/Manual_selectare_temperatura.vhd|13|1*3714852
+BinI32/arc_04=3*356351
+H/arc_04=0*1055979
+I=0*394861
+I/arc_04=I/ARC_04 0*395485
+M=11|0|v98|1526211617944|./src/Manual_selectare_temperatura.vhd|0*394452*0x83a58ad791330b4234eb56dd2975ca5b8fca7e56|0*394761*0xab32bc1a2daf049573e14469f634e0e6
+M/arc_04=M/ARC_04 21|0|v98|1527671357578|./src/Manual_selectare_temperatura.vhd|0*395032*0xe563e686cf2f545abe114179304d60011f541efc|0*395375*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Manual_selectare_temperatura.vhd|6
+V=0*964005
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/arc_04=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[viteza]
+A/arc_05=A/ARC_05 21|./src/Manual_selectare_viteza.vhd|13|1*3716136
+BinI32/arc_05=3*356794
+H/arc_05=0*1056521
+I=0*400120
+I/arc_05=I/ARC_05 0*400717
+M=11|0|v98|1526211776462|./src/Manual_selectare_viteza.vhd|0*399736*0xbdfab446de43714549681e00ab2a1bac079488f6|0*400030*0xab32bc1a2daf049573e14469f634e0e6
+M/arc_05=M/ARC_05 21|0|v98|1527671357666|./src/Manual_selectare_viteza.vhd|0*400286*0x019138a89902e2f362f05bc79e28d495d30328e2|0*400617*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Manual_selectare_viteza.vhd|6
+V=0*969172
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/arc_05=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[~A]
+./src/Afis.vhd~AFISOR=0*1483735*1484105
+./src/Afisor.vhd~AFISOR=0*969926*970155
+./src/Afisor.vhd~ARC_10AFISOR=0*1057120*1057669
+./src/Comenzi_de_selectare_regim_manual.vhd~ARC_01CLATIRE_SUPLIMENTARA=0*1031057*1031314
+./src/Comenzi_de_selectare_regim_manual.vhd~ARC_02PRESPALARE=0*1031511*1031748
+./src/Comenzi_de_selectare_regim_manual.vhd~CLATIRE_SUPLIMENTARA=0*958282*958579
+./src/Comenzi_de_selectare_regim_manual.vhd~PRESPALARE=0*959545*959780
+./src/Countdown_with_vector.vhd~ARC_07COUNTDOWN_VECTOR=0*1717081*1718179
+./src/Countdown_with_vector.vhd~COUNTDOWN_VECTOR=0*977451*977948
+./src/Decodificator.vhd~ARC_11DECOD=0*1057825*1060660
+./src/Decodificator.vhd~DECOD=0*972528*972767
+./src/Divdefrec.vhd~div=0*1619439*1619609
+./src/Divdefrec.vhd~fct_divdiv=0*1619761*1620091
+./src/Manual_selectare_temperatura.vhd~ARC_04TEMPERATURA=0*1056066*1056425
+./src/Manual_selectare_temperatura.vhd~TEMPERATURA=0*962458*962778
+./src/Manual_selectare_viteza.vhd~ARC_05VITEZA=0*1056608*1056947
+./src/Manual_selectare_viteza.vhd~VITEZA=0*967703*968002
+./src/Modul_principal_de_lucru.vhd~ARC_08CARACTERISTICI_SPALARE=0*1710652*1716891
+./src/Modul_principal_de_lucru.vhd~CARACTERISTICI_SPALARE=0*1627971*1628717
+./src/Ready.vhd~ARC_03INCEPERE_SPALARE=0*1031935*1032246
+./src/Ready.vhd~INCEPERE_SPALARE=0*964745*965121
+./src/Selectare_Regim.vhd~ARC_00MOD_REGIM=0*1030083*1030300
+./src/Selectare_Regim.vhd~MOD_REGIM=0*952766*952980
+./src/Selectare_mod_automat.vhd~ARC_06SELECTARE_MOD_AUTOMAT=0*1030468*1030871
+./src/Selectare_mod_automat.vhd~SELECTARE_MOD_AUTOMAT=0*955649*956036
+./src/display.vhd~AFISOR=0*1191093*1191466
+./src/display.vhd~ARH_12AFISOR=0*1199150*1201754
+./src/display.vhd~architecture_displayAFISOR=0*1192472*1195104
+./src/display.vhd~architecture_displaydisplay=0*1188374*1191008
+./src/display.vhd~arh_displaydisplay=0*1132721*1136322
+./src/display.vhd~display=0*1183937*1184313
+ModifyID=5461
+Version=73
+
+[~MFT]
+0=4271|0Part1.mgf|1738361|1633924
+1=1576|1Part1.mgf|3745092|3697319
+3=1527|3Part1.mgf|363811|322044
+
+[~U]
+afisor=11|0*1730706|
+caracteristici_spalare=11|0*1723336|
+clatire_suplimentara=CLATIRE_SUPLIMENTARA 11|0*958683|0*958876
+countdown_vector=COUNTDOWN_VECTOR 11|0*979315|0*979640
+decod=DECOD 11|0*975833|0*975993
+display=11|0*1184378|0*1184625
+div=11|0*1722345|
+incepere_spalare=INCEPERE_SPALARE 11|0*965669|0*966027
+mod_regim=MOD_REGIM 11|0*953440|0*953600
+prespalare=PRESPALARE 11|0*959874|0*960037
+ready=READY 11|0*346167|
+selectare_mod_automat=SELECTARE_MOD_AUTOMAT 11|0*956718|0*956966
+temperatura=TEMPERATURA 11|0*963410|0*963652
+viteza=VITEZA 11|0*968594|0*968826
+

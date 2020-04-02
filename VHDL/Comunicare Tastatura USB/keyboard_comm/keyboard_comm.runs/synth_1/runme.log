@@ -1,0 +1,4 @@
+
+*** Running vivado
+    with args -log keyboard_ctrl.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source keyboard_ctrl.tcl
+

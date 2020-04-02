@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+ <document type="stimulators" version="1">
+  <set name="ASDB Stimulators" active="1">
+   <stimulator>
+    <signal_path value="/CARACTERISTICI_SPALARE/CLATIRE"/>
+    <rawdescription value="KEY:KEY:Override:67/0,1:C:1:"/>
+   </stimulator>
+   <stimulator>
+    <signal_path value="/CARACTERISTICI_SPALARE/CLK"/>
+    <rawdescription value="CLK:FRM:Override:1.000000;5;1;0;50;1:Clock:1:"/>
+   </stimulator>
+   <stimulator>
+    <signal_path value="/CARACTERISTICI_SPALARE/ENABLE0"/>
+    <rawdescription value="KEY:KEY:Override:87/0,1:W:1:"/>
+   </stimulator>
+   <stimulator>
+    <signal_path value="/CARACTERISTICI_SPALARE/ENABLE1"/>
+    <rawdescription value="KEY:KEY:Override:69/0,1:E:1:"/>
+   </stimulator>
+   <stimulator>
+    <signal_path value="/CARACTERISTICI_SPALARE/PRESP"/>
+    <rawdescription value="KEY:KEY:Override:80/0,1:P:1:"/>
+   </stimulator>
+   <stimulator>
+    <signal_path value="/CARACTERISTICI_SPALARE/SEL_REGIM"/>
+    <rawdescription value="KEY:KEY:Override:82/0,1:R:1:"/>
+   </stimulator>
+   <stimulator>
+    <signal_path value="/CARACTERISTICI_SPALARE/START"/>
+    <rawdescription value="KEY:KEY:Override:83/0,1:S:1:"/>
+   </stimulator>
+   <stimulator>
+    <signal_path value="/CARACTERISTICI_SPALARE/USA"/>
+    <rawdescription value="KEY:KEY:Override:85/0,1:U:1:"/>
+   </stimulator>
+  </set>
+ </document>
+</XML>

@@ -1,0 +1,70 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=Part1
+
+[Library]
+Part1=.\Part1.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+Part1=.
+Active_lib=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=caracteristici_spalare|ARC_08|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/Selectare_Regim.vhd=-1
+/Selectare_mod_automat.vhd=-1
+/Comenzi_de_selectare_regim_manual.vhd=-1
+/Ready.vhd=-1
+/Modul_principal_de_lucru.vhd=-1
+/Manual_selectare_temperatura.vhd=-1
+/Manual_selectare_viteza.vhd=-1
+/Decodificator.vhd=-1
+/Countdown_with_vector.vhd=-1
+/Afis.vhd=-1
+/Divdefrec.vhd=-1
+
+[Files.Data]
+.\src\Selectare_Regim.vhd=VHDL Source Code
+.\src\Selectare_mod_automat.vhd=VHDL Source Code
+.\src\Comenzi_de_selectare_regim_manual.vhd=VHDL Source Code
+.\src\Ready.vhd=VHDL Source Code
+.\src\Modul_principal_de_lucru.vhd=VHDL Source Code
+.\src\Manual_selectare_temperatura.vhd=VHDL Source Code
+.\src\Manual_selectare_viteza.vhd=VHDL Source Code
+.\src\Decodificator.vhd=VHDL Source Code
+.\src\Countdown_with_vector.vhd=VHDL Source Code
+.\src\Afis.vhd=VHDL Source Code
+.\src\Divdefrec.vhd=VHDL Source Code
+
