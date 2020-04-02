@@ -1,0 +1,1 @@
+Order 6 : potato          ,client : Vlad            , cantitate : 25

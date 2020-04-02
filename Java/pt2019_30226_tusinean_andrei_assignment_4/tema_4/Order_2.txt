@@ -1,0 +1,1 @@
+Order: orderID: 2, date: may, table: 3, items= Cola,Test,		, total price= 31
