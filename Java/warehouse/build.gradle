@@ -1,0 +1,43 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+archivesBaseName = 'Concretepage'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.hibernate:hibernate-core:4.3.6.Final'
+    compile 'javax.servlet:javax.servlet-api:3.1.0'
+    compile 'org.slf4j:slf4j-simple:1.7.7'
+    compile 'org.javassist:javassist:3.15.0-GA'
+    compile 'com.itextpdf:itextpdf:5.5.13'
+    // compile 'mysql:mysql-connector-java:8.0.19'
+    compile group: 'mysql', name: 'mysql-connector-java', version: '8.0.19'
+
+
+    testCompile('org.junit.jupiter:junit-jupiter-api:5.3.2')
+    testCompile('org.junit.jupiter:junit-jupiter-params:5.3.2')
+    testRuntime('org.junit.jupiter:junit-jupiter-engine:5.3.2')
+    testCompile "org.mockito:mockito-core:2.+"
+    implementation 'junit:junit:4.12'
+    implementation 'junit:junit:4.12'
+
+    //compile group: 'javax.mail', name: 'mail', version: '1.4.5'
+    //compile group: 'javax.mail', name: 'javax.mail-api', version: '1.6.2'
+    compile group: 'javax.mail', name: 'mail', version: '1.5.0-b01'
+
+}
+
+test {
+    useJUnitPlatform()
+    testLogging {
+        events "passed", "skipped", "failed"
+    }
+}
+
+wrapper {
+    gradleVersion = '4.8'
+}
+
